@@ -12,9 +12,9 @@ header:
     - label: Home
       url: /
     - label: Publications
-      url: /generic/
+      url: /publications/
     - label: CV
-      url: /elements/
+      url: /cv/
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created on <a
