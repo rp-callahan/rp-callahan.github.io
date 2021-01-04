@@ -14,7 +14,7 @@ header:
     - label: Publications
       url: /generic/
     - label: CV
-      url: /cv/
+      url: /elements/
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created on <a
