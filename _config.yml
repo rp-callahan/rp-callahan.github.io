@@ -12,7 +12,7 @@ header:
     - label: Home
       url: /
     - label: Publications
-      url: /publications/
+      url: /generic/
     - label: CV
       url: /cv/
 footer:
