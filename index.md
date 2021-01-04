@@ -45,6 +45,6 @@ sections:
       landscapes.
 
 
-      ![GRL_image](https://rp-callahan.github.com/images/grl.png)
+      ![GRL_image](images/20170730_113606_resize2.jpg)
 layout: advanced
 ---
