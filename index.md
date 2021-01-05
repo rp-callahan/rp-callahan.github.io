@@ -15,7 +15,7 @@ sections:
 
       I am a Ph.D. candidate working with Dr. Cliff Riebe at the University of
       Wyoming. My dissertation focuses on quantifying how subsurface weathering
-      influence geomorphic and ecological processes. More specifically, I have
+      influences geomorphic and ecological processes. More specifically, I have
       worked on quantifying how hillslope weathering influences, hillslope
       erosion, and river incision over millennial timescales in the southern
       Sierra Nevada, California. I have also worked on quantifying weathering
