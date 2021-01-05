@@ -33,7 +33,7 @@ sections:
     section_id: cat
     type: section_content
     content: >-
-      ## News 
+      ## News: 
       
       ### Paper out in GRL
 
