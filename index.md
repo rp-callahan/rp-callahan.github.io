@@ -35,7 +35,7 @@ sections:
     content: >-
       ## News 
       
-      ###Paper out in GRL
+      ### Paper out in GRL
 
 
       Check out my [new paper](https://doi.org/10.1029/2020GL088322) out in
@@ -47,6 +47,6 @@ sections:
       landscapes.
 
 
-      ![GRL_image](images/blob.png,width=100)
+      ![GRL_image](images/blob.png)
 layout: advanced
 ---
