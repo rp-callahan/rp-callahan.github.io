@@ -1,3 +1,4 @@
+---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P911Y0SPEY"></script>
 <script>
@@ -7,7 +8,6 @@
 
   gtag('config', 'G-P911Y0SPEY');
 </script>
----
 title: Home
 sections:
   - section_id: hero
