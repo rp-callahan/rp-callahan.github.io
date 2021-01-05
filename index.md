@@ -47,6 +47,6 @@ sections:
       landscapes.
 
 
-      ![GRL_image](images/blob.png | withh=100)
+      ![GRL_image](images/blob.png | width=100)
 layout: advanced
 ---
