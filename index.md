@@ -45,6 +45,6 @@ sections:
       landscapes.
 
 
-      ![GRL_image](images/20170730_113606_resize2.jpg)
+      ![GRL_image](images/blob.png)
 layout: advanced
 ---
