@@ -47,6 +47,6 @@ sections:
       landscapes.
 
 
-      ![GRL_image](images/blob.png) <!-- .element width="50%" -->
+      <img src="images/blob.png" width="200" />
 layout: advanced
 ---
