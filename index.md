@@ -47,6 +47,6 @@ sections:
       landscapes.
 
 
-      ![GRL_image](https://github.com/rp-callahan/rp-callahan.github.io/blob/master/images/blob.png | width=100)
+      ![GRL_image](https://github.com/rp-callahan/rp-callahan.github.io/blob/master/images/blob.png =100x)
 layout: advanced
 ---
