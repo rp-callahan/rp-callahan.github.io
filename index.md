@@ -13,8 +13,10 @@ sections:
       ## About Me
 
 
-      I am a Ph.D. candidate working with Dr. Cliff Riebe at the University of
-      Wyoming. My dissertation focuses on quantifying how subsurface weathering
+      I am a Postdoctroral Researcher at the University of Wyoming working on the [Bedrock
+      Critical Zone Collaborative Network](https://bedrockczn.github.io/) project.
+      I received my Ph.D. in May 2021 from the University of Wyoming. 
+      My dissertation focused on quantifying how subsurface weathering
       influences geomorphic and ecological processes. More specifically, I have
       worked on quantifying how hillslope weathering influences, hillslope
       erosion, and river incision over millennial timescales in the southern
@@ -25,9 +27,8 @@ sections:
       influences ecosystem productivity and drought response during the historic
       2011-2017 drought in the southern Sierra Nevada, California. My research
       has greatly benefitted from transdisciplinary collaborations through the
-      Southern Sierra Critical Zone Observatory and the recently funded [Bedrock
-      Critical Zone Collaborative Network](https://bedrockczn.github.io/). For
-      more information on my research check out my publications or reach out to
+      Southern Sierra Critical Zone Observatory and the Bedrock Critical 
+      Zone Collaborative Network. For more information on my research check out my publications or reach out to
       me at [rcallaha@uwyo.edu](rcallaha@uwyo.edu) with any questions.
   - title: A Cat
     section_id: cat
