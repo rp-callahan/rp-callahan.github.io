@@ -13,8 +13,8 @@ sections:
       ## About Me
 
 
-      I am a Postdoctroral Researcher at the University of Wyoming working on the [Bedrock
-      Critical Zone Collaborative Network](https://bedrockczn.github.io/) project.
+      I am a Postdoctroral Researcher at the University of Wyoming working on the Bedrock
+      Critical Zone Collaborative Network project.
       I received my Ph.D. in May 2021 from the University of Wyoming. 
       My dissertation focused on quantifying how subsurface weathering
       influences geomorphic and ecological processes. More specifically, I have
