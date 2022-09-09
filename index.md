@@ -28,18 +28,11 @@ sections:
     content: >-
       ## News: 
       
-      ### Paper out in GRL
+      ### Paper out in Nature Geoscience
 
 
-      Check out my [new paper](https://doi.org/10.1029/2020GL088322) out in
-      *Geophysical Research Letters*. The paper presents a new approach for
-      quantifying subsurface weathering across hillslope scales. This approach
-      aggregates porosity across geophysical surveys to produce a site-wide
-      perspective of subsurface weathering and has direct implications for
-      understanding subsurface weathering and water storage capacity across
-      landscapes.
+      Check out our [new paper](https://doi.org/10.1038/s41561-022-01012-2) titled Forest vulnerability to drought controlled by bedrock 
+      composition now out in *Nature Geoscience*. 
 
-
-      <img src="images/blob.png" width="200" />
 layout: advanced
 ---
