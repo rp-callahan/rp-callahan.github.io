@@ -13,23 +13,15 @@ sections:
       ## About Me
 
 
-      I am a Postdoctroral Researcher at the University of Wyoming working on the Bedrock
-      Critical Zone Collaborative Network project.
-      I received my Ph.D. in May 2021 from the University of Wyoming. 
-      My dissertation focused on quantifying how subsurface weathering
-      influences geomorphic and ecological processes. More specifically, I have
-      worked on quantifying how hillslope weathering influences, hillslope
-      erosion, and river incision over millennial timescales in the southern
-      Sierra Nevada, California. I have also worked on quantifying weathering
-      over hillslope scales using near-surface geophysical techniques.
-      Additionally, I have integrated near-surface geophysical methods and
-      remote sensing measurements to quantify how subsurface weathering
-      influences ecosystem productivity and drought response during the historic
-      2011-2017 drought in the southern Sierra Nevada, California. My research
-      has greatly benefitted from transdisciplinary collaborations through the
-      Southern Sierra Critical Zone Observatory and the Bedrock Critical 
-      Zone Collaborative Network. For more information on my research check out my publications or reach out to
-      me at [rcallaha@uwyo.edu](rcallaha@uwyo.edu) with any questions.
+      I am a Postdoctroral Researcher at the University of California Santa Cruz. 
+      My research focuses on understanding how subsurface weathering influences ecological, 
+      geomorphic, and hydrologic processes. Currently I am working on understanding how weathering
+      influences hydrologic partitioning in the Coast Range of California with the [Watershed
+      Hydrology Lab](http://mzimmer.weebly.com/) at UCSC. I also continue to collaborate with the [Bedrock Critical Zone Network](https://criticalzone.org/bedrock)
+      team on projects stemming from my time as a graduate student and postdoc working on the project.
+      For more information on my research check out my publications or reach out to
+      me at [rucallah@ucsc.edu](rucallah@ucsc.edu) with any questions.
+      
   - title: A Cat
     section_id: cat
     type: section_content
