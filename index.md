@@ -13,7 +13,7 @@ sections:
       ## About Me
 
 
-      I am a Postdoctroral Researcher at the University of California Santa Cruz. 
+      I am a Postdoctoral Researcher at the University of California Santa Cruz. 
       My research focuses on understanding how subsurface weathering influences ecological, 
       geomorphic, and hydrologic processes. Currently I am working on understanding how weathering
       influences hydrologic partitioning in the Coast Range of California with the [Watershed
