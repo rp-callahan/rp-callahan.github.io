@@ -23,7 +23,7 @@ sections:
 
       ### Recruting M.S. and Ph.D. students at University of Connecticut
 
-      I am actively recruiting graduate students to join my research group at the University of Connecticut. For more information see details [here]().
+      I am actively recruiting graduate students to join my research group at the University of Connecticut. For more information see details [here](https://github.com/rp-callahan/rp-callahan.github.io/blob/master/grad_recruting_9_17_23.pdf).
 
       
 
