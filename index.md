@@ -3,8 +3,8 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Critical Zone Geoscience at UConn
-    subtitle: Russell Callahan (Ph.D.)
+    title: Russell Callahan
+    subtitle: Critical Zone Geoscience at UConn
     image: images/20170730_113606_resize2.jpg
   - title: Text
     section_id: intro
