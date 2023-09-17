@@ -3,6 +3,8 @@ title: Publications
 subtitle: ''
 layout: page
 ---
+* Donaldson, A. M., Zimmer, M., Huang, M.H., Johnson, K. N., Hudson-Rasmussen, B., Finnegan, N., Barling, N., & **Callahan, R. P.** (2023). Symmetry in hillslope steepness and saprolite thickness between hillslopes with opposing aspects. Journal of Geophysical Research Earth Surface, 128(7). [https://doi.org/10.1029/2023jf007076](https://doi.org/10.1029/2023jf007076)
+
 * **Callahan, R. P.**, Riebe, C. S., Sklar, L. S., Pasquet, S., Ferrier, K. L., Hahm, W. J., Taylor, N. J., Grana, D., Flinchum, B. A., Hayes, J. L., & Holbrook, W. S. (2022). Forest vulnerability to drought controlled by bedrock composition. *Nature Geoscience*, 1–6. [https://doi.org/10.1038/s41561-022-01012-2](https://doi.org/10.1038/s41561-022-01012-2)
 
 * Grana, D., Parsekian, A. D., Flinchum, B. A., **Callahan, R. P.**, Smeltz, N. Y., Li, A., Hayes, J. L., Carr, B. J., Singha, K., Riebe, C. S., & Holbrook, W. S. (2022). Geostatistical Rock Physics Inversion for Predicting the Spatial Distribution of Porosity and Saturation in the Critical Zone. *Mathematical Geosciences*. [https://doi.org/10.1007/s11004-022-10006-0](https://doi.org/10.1007/s11004-022-10006-0)
