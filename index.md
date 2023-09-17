@@ -13,12 +13,13 @@ sections:
       ## About Me
 
 
-      I am a Postdoctoral Researcher at the University of California Santa Cruz. 
+      I am an Assistant Professor at the University of Connecticut. 
       My research focuses on understanding how subsurface weathering influences ecological, 
-      geomorphic, and hydrologic processes. Currently I am working on understanding how weathering
-      influences hydrologic partitioning in the Coast Range of California with the [Watershed
-      Hydrology Lab](http://mzimmer.weebly.com/) at UCSC. I also continue to collaborate with the [Bedrock Critical Zone Network](https://criticalzone.org/bedrock)
-      team on projects stemming from my time as a graduate student and postdoc working on the project.
+      geomorphic, and hydrologic processes. I did a Ph.D. and Postdoc at the University of Wyoming
+      where I worked on a variety of projects related to subsurface weathering. I still actively work with the [Bedrock Critical Zone Network](https://criticalzone.org/bedrock) on projects stemming from my time as a graduate student and postdoc. I also did a one year postdoc with the [Watershed Hydrology Lab](http://mzimmer.weebly.com/) at University of California, Santa Cruz working on connections between subsurface weathering and hydrologic partitioning.
+      
+
+
       For more information on my research check out my publications or reach out to
       me at [rucallah@ucsc.edu](rucallah@ucsc.edu) with any questions.
       
