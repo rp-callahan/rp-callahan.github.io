@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Russell Callahan
     subtitle: Critical Zone Geoscience at the University of Connecticut
-    image: images/20170730_113606_resize2.jpg
+    image: images/callahan_picture.jpg
   - title: Text
     section_id: intro
     type: section_content
