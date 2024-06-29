@@ -21,13 +21,6 @@ sections:
     content: >-
       ## News:
 
-      ### Recruiting M.S. and Ph.D. students at University of Connecticut
-
-      I am actively recruiting graduate students to join my research group at the University of Connecticut. For more information see details [here](https://github.com/rp-callahan/rp-callahan.github.io/blob/master/grad_recruting_9_17_23.pdf).
-
-      
-
-      
       ### Paper out in Nature Geoscience
 
       Check out our [new paper](https://doi.org/10.1038/s41561-022-01012-2) titled **Forest vulnerability to drought  controlled by bedrock composition** now out in *Nature Geoscience*. 
