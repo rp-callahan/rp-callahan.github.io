@@ -3,12 +3,6 @@ title: Publications
 subtitle: ''
 layout: page
 ---
----
-title: Publications
-subtitle: ''
-layout: page
----
-
 * Tucker, A., Dumont, M., Singley, J. G., Lenssen, N., **Callahan, R. P.**, Marshall, A. M., Jacobsen, L., & Singha, K. (2026). Bridging single-tree processes and landscape-scale patterns to explain vegetation drought resistance and resilience in a Sierra Nevada headwater catchment. *Journal of Geophysical Research: Biogeosciences*. [https://doi.org/10.1029/2025JG009585](https://doi.org/10.1029/2025JG009585)
 
 * Song, K., Knighton, J., Qiu, S., Yang, X., Suh, J. W., Tavares, J. V., Liu, Y., Tai, X., Fahey, R., Neigh, C. S. R., **Callahan, R. P.**, Hong, F., Li, T., Grinstead, A., Ren, W., Witharana, C., Hedges, S. B., Yang, Z., Vieira Leite, R., Bittencourt, P. R. L., & Zhu, Z. (2026). Physiological fidelity of a satellite-derived forest resilience indicator in the Amazon. *Nature Ecology & Evolution*. [https://doi.org/10.1038/s41559-026-03116-z](https://doi.org/10.1038/s41559-026-03116-z)
