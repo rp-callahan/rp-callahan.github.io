@@ -36,7 +36,7 @@ sections:
 
       Interested students should contact Russell Callahan at [russell.callahan@uconn.edu](mailto:russell.callahan@uconn.edu) prior to applying with a brief description of their research interests and a CV or résumé.
 
-      <img width="468" height="371" alt="Graduate student recruitment" src="https://github.com/user-attachments/assets/40936314-299d-45ff-8329-680855c024a7" />
+
 
 layout: advanced
 ---
